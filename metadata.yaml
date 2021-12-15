@@ -1,5 +1,8 @@
 _repo: Susi-Historiallinen-romaani-Perttuliyon-ajalta_66879
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Weyman, Stanley John
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/742
     wikipedia: https://en.wikipedia.org/wiki/Stanley_J._Weyman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/66879#Susi-Historiallinen-romaani-Perttuliyon-ajalta
 gutenberg_issued: '2021-12-04'
 identifiers:
   gutenberg: '66879'
